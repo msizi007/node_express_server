@@ -7,3 +7,4 @@
 - express
 - nodemon
 - morgan
+* body_parser
